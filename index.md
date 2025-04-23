@@ -5,6 +5,6 @@ I made chandes in and empty file index.md
 ``` python
 print("anime is cool")
 
--[ ]  Check all the upcoming animes
--[ ]  Make a watchlist
--[ ]  Complete the watchlist
+-[ ]  go home
+-[ ]  watch anime
+-[ ]  eat food
