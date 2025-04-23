@@ -1,3 +1,3 @@
 # Exercise 2 skillsgit hub
 I made chandes in and empty file index.md
-! [Image of Aizen] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fbleach.fandom.com%2Fwiki%2FS%25C5%258Dsuke_Aizen&psig=AOvVaw18IU-OcXDbmmqbiIXZjzlq&ust=1745474397087000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDTwfu87YwDFQAAAAAdAAAAABAE)
+![Image ofAizen](https://static.wikia.nocookie.net/bleach/images/c/c4/Ep46CaptainAizen.png/revision/latest/scale-to-width/360?cb=20200415062732&path-prefix=en0)
