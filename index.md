@@ -6,5 +6,5 @@ I made chandes in and empty file index.md
 print("anime is cool")
 
 -[ ] Check all the upcoming animes
--{ } Make a watchlist
--{ } Complete the watchlist
+-[ ] Make a watchlist
+-[ ] Complete the watchlist
